@@ -1,4 +1,4 @@
-# Node JS - Test Driven Development 
+# Node JS - Behavior Driven Development 
 
 This project is made for pedagogic purposes.
 
@@ -32,7 +32,7 @@ npm test
 Test driven developement
 
 ```bash
-npm run tdd
+npm run behaviourdd
 ```
 
 Will generate a report into the terminal
