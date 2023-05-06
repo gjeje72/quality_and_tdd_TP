@@ -29,7 +29,7 @@ Test with coverage audit
 npm test
 ```
 
-Behavior driven developement
+Test driven developement
 
 ```bash
 npm run behaviourdd
